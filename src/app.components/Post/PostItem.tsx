@@ -1,7 +1,7 @@
-import React from 'react';
-import styled from 'styled-components';
-import { Link, navigate } from 'gatsby';
-import categoryColor from '../../app.constants/categoryColor';
+import React from "react";
+import styled from "styled-components";
+import { navigate } from "gatsby";
+import TagCategory from "../../app.components/Tag/TagCategory";
 
 const PostItem = ({ postData }) => {
   const {
@@ -24,16 +24,7 @@ const PostItem = ({ postData }) => {
         </div>
 
         <div className="post-category">
-          {category && (
-            <Link to={`/posts?category=${category[0]}`}>
-              <div
-                className="post-category-item"
-                style={{ background: categoryColor[category[0]] }}
-              >
-                {category[0]}
-              </div>
-            </Link>
-          )}
+          {category && <TagCategory category={category[0]} />}
         </div>
       </div>
     </StyledWrapper>
@@ -71,7 +62,7 @@ const StyledWrapper = styled.div`
     }
 
     &::after {
-      content: '';
+      content: "";
       display: block;
       padding-bottom: 100%;
     }
@@ -130,13 +121,6 @@ const StyledWrapper = styled.div`
     .post-category {
       font-size: 14px;
       display: flex;
-
-      .post-category-item {
-        color: white;
-        padding: 1px 10px;
-        border-radius: 15px;
-        z-index: 1;
-      }
     }
   }
 `;

@@ -1,8 +1,8 @@
-import React, { useState } from 'react';
-import styled from 'styled-components';
-import { graphql, Link, navigate } from 'gatsby';
-import { MenuOutlined, SearchOutlined } from '@ant-design/icons';
-import { Drawer } from 'antd';
+import React, { useState } from "react";
+import styled from "styled-components";
+import { graphql, Link, navigate } from "gatsby";
+import { MenuOutlined, SearchOutlined } from "@ant-design/icons";
+import { Drawer } from "antd";
 
 const AppHeaderMobile = ({ location }) => {
   const [isMenuVisible, setIsMenuVisible] = useState(false);
@@ -34,20 +34,20 @@ const AppHeaderMobile = ({ location }) => {
         placement="left"
         open={isMenuVisible}
         onClose={handleClickMenu}
-        title={<img src="/images/logo.png" className="drawer-title-img" />}
+        // title={<img src="/images/logo.png" className="drawer-title-img" />}
       >
         <div className="menu-item">
           <span
-            className={`menu-link ${location.pathname.includes('/about')}`}
-            onClick={() => handleClickAddress('/about')}
+            className={`menu-link ${location.pathname.includes("/about")}`}
+            onClick={() => handleClickAddress("/about")}
           >
             ABOUT
           </span>
         </div>
         <div className="menu-item">
           <span
-            className={`menu-link ${location.pathname.includes('/posts')}`}
-            onClick={() => handleClickAddress('/posts')}
+            className={`menu-link ${location.pathname.includes("/posts")}`}
+            onClick={() => handleClickAddress("/posts")}
           >
             POSTS
           </span>

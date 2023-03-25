@@ -1,6 +1,6 @@
-import React from 'react';
-import styled from 'styled-components';
-import { GithubOutlined, InstagramOutlined } from '@ant-design/icons';
+import React from "react";
+import styled from "styled-components";
+import { GithubOutlined, InstagramOutlined } from "@ant-design/icons";
 
 const Profile = () => {
   return (
@@ -11,10 +11,7 @@ const Profile = () => {
       <div className="profile-desc-wrap">
         <div className="profile-desc-title">안녕하세요, 김진아입니다.</div>
         <div className="profile-desc-content">
-          프론트엔드 개발을 공부하고 있는 김진아입니다. 개발중입니다앙.
-          개발중입니다앙. 개발중입니다앙. 개발중입니다앙. 개발중입니다앙.
-          개발중입니다앙. 개발중입니다앙. 개발중입니다앙. 개발중입니다앙.
-          개발중입니다앙. 개발중입니다앙.
+          프론트엔드 개발을 공부하고 있는 김진아입니다.
           {/* 이 공간은 공부한 것을 기록하고, 새로운 도전을 글로 남기기 위해 만든 공간입니다. */}
         </div>
         <div className="profile-desc-etc">

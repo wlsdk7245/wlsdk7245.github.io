@@ -1,9 +1,9 @@
 ---
-title: '[TIL] Gatsby로 개발 블로그 만들기 1'
-date: '2023-03-05T21:41:00.000Z'
+title: "[TIL] Gatsby로 개발 블로그 만들기 1"
+date: "2023-03-05T21:41:00.000Z"
 description: Gatsby로 개발 블로그 만들기
-category: ['TIL']
-thumbnail: '/images/content/TIL/1_1.png'
+category: ["TIL", "All"]
+thumbnail: "/images/content/TIL/1_1.png"
 ---
 
 ![Thumbnail](./1.png)

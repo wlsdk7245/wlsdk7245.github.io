@@ -1,9 +1,9 @@
 ---
-title: '[Algorithm] 알고리즘 스터디 회고 / 8주차 과제'
-date: '2023-03-05T22:23:00.000Z'
+title: "[Algorithm] 알고리즘 스터디 회고 / 8주차 과제"
+date: "2023-03-05T22:23:00.000Z"
 description: Gatsby로 개발 블로그 만들기
-category: ['Algorithm']
-thumbnail: '/images/content/Algorithm/2_1.png'
+category: ["Algorithm", "All"]
+thumbnail: "/images/content/Algorithm/2_1.png"
 ---
 
 ![Thumbnail](../2/1.png)

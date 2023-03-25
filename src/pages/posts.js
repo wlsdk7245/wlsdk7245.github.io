@@ -1,18 +1,18 @@
-import React, { useEffect, useState } from 'react';
-import AppLayout from '../app.layout/AppLayout/AppLayout';
-import ScreenPosts from '../app.feature/Posts/ScreenPosts';
-import { graphql } from 'gatsby';
+import React, { useEffect, useState } from "react";
+import AppLayout from "../app.layout/AppLayout/AppLayout";
+import ScreenPosts from "../app.feature/Posts/ScreenPosts";
+import { graphql } from "gatsby";
 
 const Posts = ({ data, location }) => {
   const params = new URLSearchParams(location.search);
-  const category = params.get('category');
+  const category = params.get("category");
   const posts = data.allMarkdownRemark.nodes;
   const [postList, setPostList] = useState(posts);
 
   useEffect(() => {
     if (category) {
       const filteredPosts = posts.filter(
-        (item) => !!item.frontmatter.category.includes(category),
+        (item) => !!item.frontmatter.category.includes(category)
       );
       setPostList(filteredPosts);
     }
@@ -20,7 +20,7 @@ const Posts = ({ data, location }) => {
 
   return (
     <AppLayout location={location}>
-      <ScreenPosts postList={postList} />
+      <ScreenPosts postList={postList} category={category} />
     </AppLayout>
   );
 };

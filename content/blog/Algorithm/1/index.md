@@ -1,9 +1,9 @@
 ---
-title: '[Algorithm] 재귀 (Recursion)'
-date: '2023-03-05T22:00:00.000Z'
+title: "[Algorithm] 재귀 (Recursion)"
+date: "2023-03-05T22:00:00.000Z"
 description: Gatsby로 개발 블로그 만들기
-category: ['Algorithm']
-thumbnail: '/images/content/Algorithm/1_1.jpeg'
+category: ["Algorithm", "All"]
+thumbnail: "/images/content/Algorithm/1_1.jpeg"
 ---
 
 ![Thumbnail](./1.jpeg)

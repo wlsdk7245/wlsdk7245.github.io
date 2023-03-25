@@ -1,9 +1,9 @@
 ---
-title: '[Algorithm] 10주차 과제'
-date: '2023-03-10T15:40:00.000Z'
+title: "[Algorithm] 10주차 과제"
+date: "2023-03-10T15:40:00.000Z"
 description: 알고리즘 10주차 과제
-category: ['Algorithm']
-thumbnail: '/images/content/Algorithm/3_1.png'
+category: ["Algorithm", "All"]
+thumbnail: "/images/content/Algorithm/3_1.png"
 ---
 
 ![Thumbnail](./1.png)

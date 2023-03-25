@@ -1,8 +1,8 @@
 const categoryColor = {
-  Algorithm: '#fdcb00',
-  TIL: '#83b7ff',
-  Frontend: '#FF877B',
-  Diary: 'rgb(242, 201, 223)',
+  All: " #b888ff",
+  Algorithm: "#fdcb00",
+  TIL: "#83b7ff",
+  Frontend: "#FF877B",
 };
 
 export default categoryColor;

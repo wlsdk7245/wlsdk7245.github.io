@@ -1,9 +1,9 @@
 ---
-title: '[TIL] Gatsby로 개발 블로그 만들기 2'
-date: '2023-03-07T21:41:00.000Z'
+title: "[TIL] Gatsby로 개발 블로그 만들기 2"
+date: "2023-03-07T21:41:00.000Z"
 description: Gatsby로 개발 블로그 만들기
-category: ['TIL']
-thumbnail: '/images/content/TIL/1_1.png'
+category: ["TIL", "All"]
+thumbnail: "/images/content/TIL/1_1.png"
 ---
 
 ![Thumbnail](./1.png)
@@ -67,14 +67,14 @@ export const pageQuery = graphql`
 
 ```jsx
 const params = new URLSearchParams(location.search);
-const category = params.get('category');
+const category = params.get("category");
 const posts = data.allMarkdownRemark.nodes;
 const [postList, setPostList] = useState(posts);
 
 useEffect(() => {
   if (category) {
     const filteredPosts = posts.filter(
-      (item) => !!item.frontmatter.category.includes(category),
+      (item) => !!item.frontmatter.category.includes(category)
     );
     setPostList(filteredPosts);
   }
@@ -82,5 +82,7 @@ useEffect(() => {
 ```
 
 각 포스트 아이템에서 색깔로 되어 있는 뱃지, 즉 카테고리 태그를 누르게 되면, `http://localhost:8000/posts/?category=Frontend` 처럼 쿼리스트링이 달린 url로 넘어간다. 여기서 category값을 추출해 데이터와 비교해 필터링을 걸어주었다.
+
+![](https://velog.velcdn.com/images/wlsdk0313/post/69e0d165-badc-4516-9ce9-29fdd00c958c/image.png)
 
 ## 🍭 검색 구현하기
