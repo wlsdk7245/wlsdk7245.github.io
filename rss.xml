@@ -1,28 +1,28 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 22 Mar 2023 14:35:59 GMT</lastBuildDate><item><title><![CDATA[[Algorithm] 10주차 과제]]></title><description><![CDATA[🌱 10주차 과제 🖋 9333 돈 갚기 백준 933…]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/Algorithm/3/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/Algorithm/3/</guid><pubDate>Fri, 10 Mar 2023 15:40:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 25 Mar 2023 04:56:00 GMT</lastBuildDate><item><title><![CDATA[[Algorithm] 10주차 과제]]></title><description><![CDATA[🌱 10주차 과제 🖋 9333 돈 갚기 백준 933…]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/Algorithm/3/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/Algorithm/3/</guid><pubDate>Fri, 10 Mar 2023 15:40:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 768px; &quot;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/fdb0179b042c480d4157bd3e9fbadaf6/21b4d/1.png&quot;
+    href=&quot;/static/c95cee20b87829c4dbd56858ca11dbd9/21b4d/1.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
   &gt;
     &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 56.25%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAAAsTAAALEwEAmpwYAAAB80lEQVR42pXRz0uTcQDHcf+COnTpIiufx+35fteeXQrs0HIzB8UirYMZMTeS2bVrHaRDKyaihFIUikGFraFOFJ5AUItAEzLyUkYh5dxWjaZDkjG/74jCbm79Ay8+P6qUaECJPhApsgbE5U9iwSVudE4QuT5NXfIr9jxIPmIU+nEUm3HjJKIEE0qwgYBlgYoJVL2gageUX0hpMH8pwWaqmsKKA1aquL90FVsBtOI7Dn7rQs8EMIuCCOVAkSJjh2RdjttXkgz0dHKzL0bk3iCB5BTNyUecmY2if2/C3DQqA7MChh3QagO7BvvPgbd3Hv/Uc44tWNTPRdFowq1kBZX/bvhEKMKyhOmCxvAixx+85eibT/gWLfyvumlYuIgLUSEo/oAhYxvphNOhF5zvj+NPWDTOxGlJ3KJ1pB1TObmsnP8DKkyp0C8oDg2s4Zt7jWdphiOr3WicRcdGEBuTGKzjKA+2GQq3E4x2ODyUo210jNDjh/g+9+KijTvrXczmRvmw1cMPdFiWu5witgkJkPY01d4kIjqJNjKGbt1FtzoQwx4S1iDZ9BqZwjPyvxO+3+1lo0RYgn7gJXuqTyADJ3EET+GMeJEdJnv9+6h9WsM1/EyXPOTLJ/xXWQTBMQ5iCwzSGAwhaMFEEN6uYVzVsoGEZWMH/AW2U032rAH2TQAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+    style=&quot;padding-bottom: 56.25%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAAAsTAAALEwEAmpwYAAAB9UlEQVR42pXRzUvTcQDHcf+COnTqMCa6h9/3+3PbpcAOrcZkixYDu6gFc6ucXTtGhwpKwjGyGHiIVKyDT2tNpq08rJAOUmFPUC0KrdZcJFNHKbJ93xGF3dz6B158HuqUcKNEDESOggZjcp3ewCsun08RvpihefIbliLofEArxbButuJAJ6wEKSVYQ0BWoHoF6qCgbguUn8k1wtzJCX7kDJQWrLBQx42XZzH+hIbNt9QvRzAVfDg2JWGqgSLHkgWSzctcP3OXm30X6Ll2ia7BYXx3ZvCnb9OWiqB/9NO0rtUGFgSMWKHDCOZG2N0K3ugMhx48xDmXxJuJIIt+7MgaKv/dcFQoQrKM3QYtwXkODD5n3+tFXPNp3E+juJ4dx1YzKP6AQa2C1MEfnKU9NoZ3bBpPZpT28St0xLuwK53TSv8fUGGXCvOxCk0DeZxPXrD/zSx7vkQxqaOYMBLAyBQaq1irg52awqGDdgr2Dn3nRDxB6NYw7k992OikfzXCo+UE7zeuUsQEWbnNKaJCUIC05DG4kmg9U5jiCczT/ZjvhREjTibSAxTyX1kq3Wfld8J3272slQlJMNU/ZoehBXnkMNaAD73bhey2s9OzC/N4A+fwkCk7Wame8F9lEQDrJIgN0MijMYSgDTuCUKWBSWVmDQlZbQv8BVOdTc3lvIlBAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
   &gt;&lt;/span&gt;
   &lt;img
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;Thumbnail&quot;
         title=&quot;&quot;
-        src=&quot;/static/fdb0179b042c480d4157bd3e9fbadaf6/e5715/1.png&quot;
-        srcset=&quot;/static/fdb0179b042c480d4157bd3e9fbadaf6/8514f/1.png 192w,
-/static/fdb0179b042c480d4157bd3e9fbadaf6/804b2/1.png 384w,
-/static/fdb0179b042c480d4157bd3e9fbadaf6/e5715/1.png 768w,
-/static/fdb0179b042c480d4157bd3e9fbadaf6/4ad3a/1.png 1152w,
-/static/fdb0179b042c480d4157bd3e9fbadaf6/21b4d/1.png 1280w&quot;
+        src=&quot;/static/c95cee20b87829c4dbd56858ca11dbd9/e5715/1.png&quot;
+        srcset=&quot;/static/c95cee20b87829c4dbd56858ca11dbd9/8514f/1.png 192w,
+/static/c95cee20b87829c4dbd56858ca11dbd9/804b2/1.png 384w,
+/static/c95cee20b87829c4dbd56858ca11dbd9/e5715/1.png 768w,
+/static/c95cee20b87829c4dbd56858ca11dbd9/4ad3a/1.png 1152w,
+/static/c95cee20b87829c4dbd56858ca11dbd9/21b4d/1.png 1280w&quot;
         sizes=&quot;(max-width: 768px) 100vw, 768px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
@@ -200,54 +200,21 @@ thumbnail: &apos;/images/content/Frontend/1_1.png&apos;
 &lt;/span&gt;&lt;span class=&quot;token template-punctuation string&quot;&gt;`&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;p&gt;사실, 애초에 sort와 함께 filter 기능을 이용해서 graphql로 데이터를 가져올 때 부터 원하는 카테고리의 데이터만 뽑아오고 싶었다. 그런데 그렇게 하려면 gatsby-node.js를 수정하는 등의 복잡한 과정이 필요하다고 한다. 깔끔히 포기하고, gatsby 초보자인 나는 js에서 필터링을 하기로 결정했다.&lt;/p&gt;
 &lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;jsx&quot;&gt;&lt;pre class=&quot;language-jsx&quot;&gt;&lt;code class=&quot;language-jsx&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;const&lt;/span&gt; params &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;token class-name&quot;&gt;URLSearchParams&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;location&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;search&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;token keyword&quot;&gt;const&lt;/span&gt; category &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; params&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;get&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&apos;category&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;token keyword&quot;&gt;const&lt;/span&gt; category &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; params&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;get&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;category&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
 &lt;span class=&quot;token keyword&quot;&gt;const&lt;/span&gt; posts &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; data&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;allMarkdownRemark&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;nodes&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
 &lt;span class=&quot;token keyword&quot;&gt;const&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;[&lt;/span&gt;postList&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; setPostList&lt;span class=&quot;token punctuation&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;useState&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;posts&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
 
 &lt;span class=&quot;token function&quot;&gt;useEffect&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;=&gt;&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
   &lt;span class=&quot;token keyword&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;category&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
     &lt;span class=&quot;token keyword&quot;&gt;const&lt;/span&gt; filteredPosts &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; posts&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;filter&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;
-      &lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token parameter&quot;&gt;item&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;=&gt;&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;!&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;!&lt;/span&gt;item&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;frontmatter&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;category&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;includes&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;category&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+      &lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token parameter&quot;&gt;item&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;=&gt;&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;!&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;!&lt;/span&gt;item&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;frontmatter&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;category&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;includes&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;category&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
     &lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
     &lt;span class=&quot;token function&quot;&gt;setPostList&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;filteredPosts&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
   &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
 &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;[&lt;/span&gt;category&lt;span class=&quot;token punctuation&quot;&gt;]&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;p&gt;각 포스트 아이템에서 색깔로 되어 있는 뱃지, 즉 카테고리 태그를 누르게 되면, &lt;code class=&quot;language-text&quot;&gt;http://localhost:8000/posts/?category=Frontend&lt;/code&gt; 처럼 쿼리스트링이 달린 url로 넘어간다. 여기서 category값을 추출해 데이터와 비교해 필터링을 걸어주었다.&lt;/p&gt;
-&lt;h2&gt;🍭 검색 구현하기&lt;/h2&gt;</content:encoded></item><item><title><![CDATA[[Diary] 취업 준비 일기 1]]></title><description><![CDATA[dasdf
-asdf]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/DIARY/1/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/DIARY/1/</guid><pubDate>Tue, 07 Mar 2023 20:10:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
-      class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 768px; &quot;
-    &gt;
-      &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/f5924e5984086ab12706300cc51c2472/21b4d/1.png&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-    &lt;span
-    class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 56.25%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAAAsTAAALEwEAmpwYAAACXklEQVR42l2QT0hUURTGj9NCKBcu2rVq1VJok5lBuShb5i6i0o0rCSssUNNKIihsWRAuldTUaTNQMJkYiKlT2ajl39QZfW/ue/e9GcMpR51fzHuK5uKDc+/9ft8554p2HJwVC2fVwlE27oyJu6Sw4gkMw+B+QyMlp0sIdvSQyWTQEyu+19Ye504ZOKaNTjo4MYU4SqPXXByt8Wplk4xZWDGTqsoqysvLiUajDAwMoFZMEvMrOEnXD11WPrdq4f4wcCcNJBmJ+13i/oTa1uicKWEz/m2coaEhwuEwkdExZqZnmJuf8xrnpvK0mMBdSOAYtsdL7uCtOW36D3ELV2lMwyS2uMzs7CyDnwYJhd8xNDLMRDTq3SfVzlftBscUzlJu5YSf7Clh7xlMGzfzm4VfC5jKJB6aYHpgnIRS2KvKn1LteI0dVmlE/0miN1LoTAq9mUJvrWFvpVCkMN//RJ/opvfyczrPtOAGp7FIY2WSnsdjNlLYW2t+nUkh6fox0o0R1psipJsjrDdH2Kj/wmbrFGZ1GKSX9sLbPCuqgdpJNlu+Q/MEf5u+st4wRvreKOlbn0nfHSWXJUgH/+s1a9JGSOoYvtjGq8IaHuVfof1ILVPylGF5wEepR8lLz5s9wEs20MWutgKdEAgyEnjCybzj1EgZl6SIa1LKDTnLVSmlI+8mFYFTDAYeet4csz9DstLFrralE6SHZXlBo1TQml/J9YIyWguqqC4o58LhkwQP1dEndxiWxyB9bHtT7mUI0sV+ZXOheW+8v+NYiO1z/WTP90NxGIo/wNG3IN173gP8P2DJsT7OD28WAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
-  &gt;&lt;/span&gt;
-  &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        alt=&quot;1&quot;
-        title=&quot;&quot;
-        src=&quot;/static/f5924e5984086ab12706300cc51c2472/e5715/1.png&quot;
-        srcset=&quot;/static/f5924e5984086ab12706300cc51c2472/8514f/1.png 192w,
-/static/f5924e5984086ab12706300cc51c2472/804b2/1.png 384w,
-/static/f5924e5984086ab12706300cc51c2472/e5715/1.png 768w,
-/static/f5924e5984086ab12706300cc51c2472/4ad3a/1.png 1152w,
-/static/f5924e5984086ab12706300cc51c2472/21b4d/1.png 1280w&quot;
-        sizes=&quot;(max-width: 768px) 100vw, 768px&quot;
-        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
-        loading=&quot;lazy&quot;
-        decoding=&quot;async&quot;
-      /&gt;
-  &lt;/a&gt;
-    &lt;/span&gt;
-dasdf
-asdf&lt;/p&gt;</content:encoded></item><item><title><![CDATA[[Frontend] 숙소 사이트 만들기 1]]></title><description><![CDATA[…]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/Frontend/1/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/Frontend/1/</guid><pubDate>Mon, 06 Mar 2023 15:27:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+&lt;p&gt;&lt;img src=&quot;https://velog.velcdn.com/images/wlsdk0313/post/69e0d165-badc-4516-9ce9-29fdd00c958c/image.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;h2&gt;🍭 검색 구현하기&lt;/h2&gt;</content:encoded></item><item><title><![CDATA[[Frontend] 숙소 사이트 만들기 1]]></title><description><![CDATA[…]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/Frontend/1/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/Frontend/1/</guid><pubDate>Mon, 06 Mar 2023 15:27:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 768px; &quot;
     &gt;
@@ -302,11 +269,12 @@ Reservation페이지는 예약에 관한 중요 안내 사항을 적어두었다
 &lt;p&gt;&lt;img src=&quot;https://velog.velcdn.com/images/wlsdk0313/post/1494981f-272d-4dbe-9979-8165106e73bb/image.png&quot; alt=&quot;&quot;&gt;
 언니의 예시 이미지.
 밑으로 내려오는 목록 만들고 싶다던 언니. 하나하나 진아야, 이거 만들 수 있어? 진아야, 이거 구현 가능해? 물어봐줬는데 다 된다고 하니까 언니가 되게 좋아했다. 사실 매우 쉬운거야 언니...&lt;/p&gt;
-&lt;h3&gt;네이버 클라우드 API&lt;/h3&gt;
-&lt;h3&gt;Lazy Loading&lt;/h3&gt;
-&lt;h3&gt;plachoder&lt;/h3&gt;
-&lt;p&gt;prerequisites
-=&gt; placeholder -&gt; sharp, plaiceholder&lt;/p&gt;</content:encoded></item><item><title><![CDATA[[Algorithm] 알고리즘 스터디 회고 / 8주차 과제]]></title><description><![CDATA[🙄 2023 알고리즘 스터디 작년…]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/Algorithm/2/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/Algorithm/2/</guid><pubDate>Sun, 05 Mar 2023 22:23:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+&lt;h2&gt;🕶 배포&lt;/h2&gt;
+&lt;p&gt;가비아에서 도메인을 구매했다. 프로젝트를 여러 번 하면서, 도메인을 구매하는 것까지는 해본적이 없는데, 이번 기회에 경험할 수 있었다. 가비아에서 약 2-3만원에 언니가 구매를 한 뒤, 네임서버 설정 등을 해줬다. netlify 자체에서 제공해주는 기능들을 통해 쉽게 할 수 있었는데, HTTPS 설정이 안되고 있어서 조금 애를 먹는 중... 이 부분은 다시 업데이트를 해야겠다.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://velog.velcdn.com/images/wlsdk0313/post/a405f5de-bc9e-4fa6-b380-56664cb3bc38/image.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;아직 맘에 들지 않는 부분들도 있고, 고쳐나갈 부분들도 있지만, 일단은 이렇게 해서 배포 완료!&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://velog.velcdn.com/images/wlsdk0313/post/f88eba09-c825-4926-bbe7-a58d87c01ffb/image.png&quot; alt=&quot;&quot;&gt;
+&lt;img src=&quot;https://velog.velcdn.com/images/wlsdk0313/post/8c5c461c-f710-4764-9630-4d7d8e55c9c2/image.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[[Algorithm] 알고리즘 스터디 회고 / 8주차 과제]]></title><description><![CDATA[🙄 2023 알고리즘 스터디 작년…]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/Algorithm/2/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/Algorithm/2/</guid><pubDate>Sun, 05 Mar 2023 22:23:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 768px; &quot;
     &gt;
