@@ -22,13 +22,15 @@ const AppHeaderMobile = ({ location }) => {
         <div className="menu-button">
           <MenuOutlined onClick={handleClickMenu} />
         </div>
-        <Link to="/">
-          <img src="/images/logo.png" />
-        </Link>
+        <div>
+          <Link to="/">
+            <img src="/images/logo.png" />
+          </Link>
+        </div>
       </div>
-      <div className="header-search">
-        <SearchOutlined />
-      </div>
+      {/* <div className="header-search">
+        <SearchOutlined onClick={}/>
+      </div> */}
       <StyledDrawer
         width={280}
         placement="left"

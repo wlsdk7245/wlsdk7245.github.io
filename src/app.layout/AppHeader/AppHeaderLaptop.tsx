@@ -1,7 +1,7 @@
-import React from 'react';
-import styled from 'styled-components';
-import { Link } from 'gatsby';
-import { SearchOutlined } from '@ant-design/icons';
+import React from "react";
+import styled from "styled-components";
+import { Link } from "gatsby";
+import { SearchOutlined } from "@ant-design/icons";
 
 const AppHeaderLaptop = () => {
   return (
@@ -18,7 +18,7 @@ const AppHeaderLaptop = () => {
         <Link to="/posts">
           <div className="menu-item">POSTS</div>
         </Link>
-        <SearchOutlined />
+        {/* <SearchOutlined /> */}
       </div>
     </StyledWrapper>
   );

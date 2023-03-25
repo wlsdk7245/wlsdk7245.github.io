@@ -85,6 +85,10 @@ const StyledWrapper = styled.div`
 
     .post-detail-top {
       cursor: pointer;
+
+      @media (max-width: 425px) {
+        margin-bottom: 12px;
+      }
     }
 
     .post-title {
