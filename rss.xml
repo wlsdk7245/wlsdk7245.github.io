@@ -1,4 +1,504 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://wlsdk7245.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 07 Apr 2023 12:37:42 GMT</lastBuildDate><item><title><![CDATA[[TIL] 네트워크]]></title><description><![CDATA[📚 웹 애플리케이션 아키텍처 🍭 클라이언트 - 서버 아키텍처 서버는 영어 단어 그대로 제공하는 주체를 의미한다. 클라이언트 - 서버 아키텍처 어떠한 리소스가 존재하는 곳과 리소스를 사용하는 앱을 분리시킨 것을…]]></description><link>https://wlsdk7245.github.io/TIL/4/</link><guid isPermaLink="false">https://wlsdk7245.github.io/TIL/4/</guid><pubDate>Fri, 07 Apr 2023 21:41:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://wlsdk7245.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 19 May 2023 03:16:46 GMT</lastBuildDate><item><title><![CDATA[[CS] TCP/IP 4계층 모델]]></title><description><![CDATA[🍀 TCP/IP 4계층 모델 1. 계층 구조 TCP/IP 계층은 애플리케이션 계층, 전송 계층, 인터넷 계층, 링크 계층을 가지고 있다. TCP/IP 계층과 달리 OSI…]]></description><link>https://wlsdk7245.github.io/CS/4/</link><guid isPermaLink="false">https://wlsdk7245.github.io/CS/4/</guid><pubDate>Wed, 19 Apr 2023 13:48:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 768px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/71781bd59061f11510685a9551f4c6d8/21b4d/1.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 56.25%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAAAsTAAALEwEAmpwYAAACK0lEQVR42nXM3UtTcRzH8fNPFHTRn2BEN151FXRRV3VRQRCRET0okkFOJEssLYPyOROVaaUbOvBhm6apO7ZyOs982Hza5tnCTZ1n+LA5TQje4dnEzezixe8L5/M+QmtsEN1RO0O0RAf44GlTVbi+UDb1iarZVmoX22mJDKCLDanb5H7/FnSxH+iT6LattO/ZeGtvJqvxGdlNL8goyyHncxHPe6u4X6uhdFSL4c8YuqgVXcwa7xIE08YEKdYd9ESmaJC6yK17Rfb7fB5XFpDfXEpJdy2ZpRrqxzvp3XZiXJcwbjgSrUO9BXFtgaMsoXlGIn6KtOVoKorJLMzlUUEuee/e8LKpUv1mWZ3juFaQAgFSBA/uJSaCQSYDq9RIxWjEq7TN6fnp8TIie3Esxzeq4CFhwafgPmLeF8Ln30bvaCRv8AoPv6ZzzXiCIstt/L922W/+R/DIYTy+JLKC1xfGvbjGk/6L3DCdIsN0hgxTGll959FL9ci+Tdyyktgnt2EE19IKx5kJhPg4XsKDvnTumNK4az7LdeNJCodvsRDcwLm0nNiuphDsIRn7moz6JkhhP+Kii+4xK0/Fy9w0nuZezzmyv13A4GlnUllhLORNaQ4IQ5FpLMm2phGjTvqUcfoViTp3OTniJapnX9Pm72Bg3cFwdEbdWbac/xDMuzbMu6PEXxvmHRs9v0fp3PxOg8uA1tVFo7MD7UwXNVITJWIxBqWf3j27uj3s4//4C8gp0mOd6h4eAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Thumbnail&quot;
+        title=&quot;&quot;
+        src=&quot;/static/71781bd59061f11510685a9551f4c6d8/e5715/1.png&quot;
+        srcset=&quot;/static/71781bd59061f11510685a9551f4c6d8/8514f/1.png 192w,
+/static/71781bd59061f11510685a9551f4c6d8/804b2/1.png 384w,
+/static/71781bd59061f11510685a9551f4c6d8/e5715/1.png 768w,
+/static/71781bd59061f11510685a9551f4c6d8/4ad3a/1.png 1152w,
+/static/71781bd59061f11510685a9551f4c6d8/21b4d/1.png 1280w&quot;
+        sizes=&quot;(max-width: 768px) 100vw, 768px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h1&gt;🍀 TCP/IP 4계층 모델&lt;/h1&gt;
+&lt;h2&gt;1. 계층 구조&lt;/h2&gt;
+&lt;p&gt;TCP/IP 계층은 애플리케이션 계층, 전송 계층, 인터넷 계층, 링크 계층을 가지고 있다. TCP/IP 계층과 달리 OSI 계층은 애플리케이션 계층을 세 개로 쪼개고 링크 계층을 데이터 링크 계층, 물리 계층으로 나눠서 표현하고 인터넷 계층을 네트워크 계층으로 부른다. 이 계층들은 특정 계층이 변경되었을 때 다른 계층이 영향을 받지 않는다.&lt;/p&gt;
+&lt;h3&gt;애플리케이션 계층&lt;/h3&gt;
+&lt;p&gt;애플리케이션(application) 계층은 FTP, HTTP, SSH, SMTP, DNS 등 응용 프로그램이 사용되는 프로토콜 계층이며 웹 서비스, 이메일 등 서비스를 실질적으로 사람들에게 제공하는 층이다.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;FTP : 장치와 장치 간의 파일을 전송하는 데 사용되는 표준 통신 프로토콜&lt;/li&gt;
+&lt;li&gt;SSH : 보안되지 않은 네트워크에서 네트워크 서비스를 안전하게 운영하기 위한 암호화 네트워크 프로토콜&lt;/li&gt;
+&lt;li&gt;HTTP : World Wide Web을 위한 데이터 통신의 기초이자 웹 사이트를 이요하는 데 쓰는 프로토콜&lt;/li&gt;
+&lt;li&gt;SMTP : 전자 메일 전송을 위한 인터넷 표준 통신 프로토콜&lt;/li&gt;
+&lt;li&gt;DNS : 도메인 이름과 IP 주소를 매핑해주는 서버&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;h3&gt;전송 계층&lt;/h3&gt;
+&lt;p&gt;전송(transport) 계층은 송신자와 수신자를 연결하는 통신 서비스를 제공하며 연결 지향 데이터 스트림 지원, 신뢰성, 흐름 제어를 제공할 수 있으며 애플리케이션과 인터넷 계층 사이의 데이터가 전달될 때 중계 역할을 한다. TCP와 UDP가 있다.&lt;/p&gt;
+&lt;h4&gt;TCP&lt;/h4&gt;
+&lt;p&gt;패킷 사이의 순서를 보장하고 연결 지향 프로토콜을 사용해 연결을 하여 신뢰성을 구축해서 수신 여부를 확인하며 &apos;가상회선 패킷 교환 방식&apos;을 사용한다.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;가상회선 패킷 교환 방식 : 각 패킷에는 가상회선 식별자가 포함되며 모든 패킷을 전송하면 가상회선이 해제되고 패킷들은 전송된 &apos;순서대로&apos; 도착하는 방식이다.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h4&gt;UDP&lt;/h4&gt;
+&lt;p&gt;순서를 보장하지 않고 수신 여부를 확인하지 않으며 단순히 데이터만 주는 &apos;데이터그램 패킷 교환 방식&apos;을 사용한다.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;데이터그램 패킷 교환 방식 : 패킷이 독립적으로 이동하며 최적의 경로를 선택하여 가는데 하나의 메시지에서 분할된 여러 패킷은 서로 다른 경로로 전송될 수 있으며 도착한 &apos;순서가 다를 수&apos; 있는 방식이다.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h4&gt;TCP 연결 성립 과정&lt;/h4&gt;
+&lt;p&gt;TCP는 신뢰성을 확보할 때 &apos;3-웨이 핸드셰이크(3-way handshake)&apos;라는 작업을 진행한다.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;UDP는 TCP같은 핸드셰이크 과정이 없어서 신뢰성이 없는 계층이라고 한다.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h5&gt;1) SYN 단계&lt;/h5&gt;
+&lt;ul&gt;
+&lt;li&gt;클라이언트는 서버에 클라이언트의 ISN을 담아 SYN을 보낸다. ISN은 새로운 TCP 연결의 첫 번째 패킷에 할당된 임의의 시퀀스 번호를 말하며 이는 장치마다 다를 수 있다.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h5&gt;2) SYN + ACK 단계&lt;/h5&gt;
+&lt;ul&gt;
+&lt;li&gt;서버는 클라이언트의 SYN을 수신하고 서버의 ISN을 보내며 승인번호로 클라이언트의 ISN + 1을 보낸다.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h5&gt;3) ACK 단계&lt;/h5&gt;
+&lt;ul&gt;
+&lt;li&gt;클라이언트는 서버의 ISN + 1한 값인 승인번호를 담아 ACK를 서버애 보낸다.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;SYN : SYNchronization의 약자, 연결 요청 플래그&lt;/li&gt;
+&lt;li&gt;ACK : ACKnowledgement의 약자, 응답 플래그&lt;/li&gt;
+&lt;li&gt;ISN : Initial Sequence Numbers의 약자, 초기 네트워크 연결을 할 때 할당된 32비트 고유 시퀀스 번호이다.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;h4&gt;TCP 연결 해제 과정&lt;/h4&gt;</content:encoded></item><item><title><![CDATA[[CS] 네트워크의 기초]]></title><description><![CDATA[🍀 네트워크의 기초 네트워크란 노드와 링크가 서로 연결되어 있으며 리소스를 공유하는 집합을 의미한다. 여기서 노드란 서버, 라우터, 스위치 등 네트워크 장치를 의미하며 링크는 유무선을 의미한다.…]]></description><link>https://wlsdk7245.github.io/CS/3/</link><guid isPermaLink="false">https://wlsdk7245.github.io/CS/3/</guid><pubDate>Wed, 19 Apr 2023 13:41:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 768px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/71781bd59061f11510685a9551f4c6d8/21b4d/1.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 56.25%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAAAsTAAALEwEAmpwYAAACK0lEQVR42nXM3UtTcRzH8fNPFHTRn2BEN151FXRRV3VRQRCRET0okkFOJEssLYPyOROVaaUbOvBhm6apO7ZyOs982Hza5tnCTZ1n+LA5TQje4dnEzezixe8L5/M+QmtsEN1RO0O0RAf44GlTVbi+UDb1iarZVmoX22mJDKCLDanb5H7/FnSxH+iT6LattO/ZeGtvJqvxGdlNL8goyyHncxHPe6u4X6uhdFSL4c8YuqgVXcwa7xIE08YEKdYd9ESmaJC6yK17Rfb7fB5XFpDfXEpJdy2ZpRrqxzvp3XZiXJcwbjgSrUO9BXFtgaMsoXlGIn6KtOVoKorJLMzlUUEuee/e8LKpUv1mWZ3juFaQAgFSBA/uJSaCQSYDq9RIxWjEq7TN6fnp8TIie3Esxzeq4CFhwafgPmLeF8Ln30bvaCRv8AoPv6ZzzXiCIstt/L922W/+R/DIYTy+JLKC1xfGvbjGk/6L3DCdIsN0hgxTGll959FL9ci+Tdyyktgnt2EE19IKx5kJhPg4XsKDvnTumNK4az7LdeNJCodvsRDcwLm0nNiuphDsIRn7moz6JkhhP+Kii+4xK0/Fy9w0nuZezzmyv13A4GlnUllhLORNaQ4IQ5FpLMm2phGjTvqUcfoViTp3OTniJapnX9Pm72Bg3cFwdEbdWbac/xDMuzbMu6PEXxvmHRs9v0fp3PxOg8uA1tVFo7MD7UwXNVITJWIxBqWf3j27uj3s4//4C8gp0mOd6h4eAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Thumbnail&quot;
+        title=&quot;&quot;
+        src=&quot;/static/71781bd59061f11510685a9551f4c6d8/e5715/1.png&quot;
+        srcset=&quot;/static/71781bd59061f11510685a9551f4c6d8/8514f/1.png 192w,
+/static/71781bd59061f11510685a9551f4c6d8/804b2/1.png 384w,
+/static/71781bd59061f11510685a9551f4c6d8/e5715/1.png 768w,
+/static/71781bd59061f11510685a9551f4c6d8/4ad3a/1.png 1152w,
+/static/71781bd59061f11510685a9551f4c6d8/21b4d/1.png 1280w&quot;
+        sizes=&quot;(max-width: 768px) 100vw, 768px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h1&gt;🍀 네트워크의 기초&lt;/h1&gt;
+&lt;p&gt;네트워크란 노드와 링크가 서로 연결되어 있으며 리소스를 공유하는 집합을 의미한다. 여기서 노드란 서버, 라우터, 스위치 등 네트워크 장치를 의미하며 링크는 유무선을 의미한다.&lt;/p&gt;
+&lt;h2&gt;1. 처리량과 지연 시간&lt;/h2&gt;
+&lt;p&gt;좋은 네트워크란 많은 처리량을 처리할 수 있으며 지연 시간이 짧고 장애 빈도가 적으며 좋은 보안을 갖춘 네트워크를 말한다.&lt;/p&gt;
+&lt;h3&gt;처리량&lt;/h3&gt;
+&lt;p&gt;처리량(throughput)이란 링크를 통해 전달되는 단위 시간당 데이터양을 말한다. 단위로는 bps(bits per second)를 쓴다. 처리량은 사용자들이 많이 접속할 때마다 커지는 트래픽, 네트워크 장치 간의 대역폭, 네트워크 중간에 발생하는 에러, 장치의 하드웨어 스펙에 영향을 받는다.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;대역폭 : 주어진 시간 동안 네트워크 연결을 통해 흐를 수 있는 최대 비트 수&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3&gt;지연 시간&lt;/h3&gt;
+&lt;p&gt;지연 시간(latency)이란 요청이 처리되는 시간을 말하며 어떤 메시지가 두 장치 사이를 왕복하는 데 걸린 시간을 말한다. 지연 시간은 매체 타입(무선, 유선), 패킷 크기, 라우터의 패킷 처리 시간에 영향을 받는다.&lt;/p&gt;
+&lt;h2&gt;2. 네트워크 토폴로지와 병목 현상&lt;/h2&gt;
+&lt;h3&gt;네트워크 토폴로지&lt;/h3&gt;
+&lt;p&gt;네트워크 토폴로지(network topology)는 노드와 링크가 어떻게 배치되어 있는지에 대한 방식이자 연결 형태를 의미한다.&lt;/p&gt;
+&lt;h4&gt;트리 토폴로지&lt;/h4&gt;
+&lt;p&gt;트리(tree) 토폴로지는 계층형 토폴로지라고 하며 트리 형태로 배치한 네트워크 구성을 말한다. 노드의 추가, 삭제가 쉬우며 특정 노드에 트래픽이 집중될 때 하위 노드에 영향을 끼칠 수 있다.&lt;/p&gt;
+&lt;h4&gt;버스 토폴로지&lt;/h4&gt;
+&lt;p&gt;버스(bus) 토폴로지는 중앙 통신 회선 하나에 여러 개의 노드가 연결되어 공유하는 네트워크 구성을 말하며 근거리 통신망(LAN)에 사용한다. 설치 비용이 적고 신뢰성이 우수하며 중앙 통신 회선에 노드를 추가하거나 삭제하기 쉽다. 그러나 스푸핑이 가능하다.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;스푸핑은 LAN 상에서 송신부의 패킷을 송신과 관련 없는 다른 호스트에 가지 않도록 하는 스위칭 기능을 마비시커가 속여서 특정 노드에 해당 패킷이 오도록 처리하는 것을 말한다.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;h4&gt;스타 토폴로지&lt;/h4&gt;
+&lt;p&gt;스타(star, 성형) 토폴로지는 중앙에 있는 노드에 모두 연결된 네트워크 구성을 말한다. 노드를 추가하거나 에러를 탐지하기 쉽고 패킷의 충돌 발생 가능성이 적다. 또한 어떠한 노드에 장애가 발생해도 쉽게 에러를 발견할 수 있고 장애 노드가 중앙 노드가 아닐 경우 다른 노드에 영향을 끼치는 것이 적다. 하지만 중앙 노드에 장애가 발생하면 전체 네트워크를 사용할 수 없고 설치 비용이 고가이다.&lt;/p&gt;
+&lt;h4&gt;링형 토폴로지&lt;/h4&gt;
+&lt;p&gt;링형(ring) 토폴로지는 각각의 노드가 양 옆의 두 노드와 연결하여 전체적으로 고리처럼 하나의 연속된 길을 통해 통신을 하는 망 구성 방식이다. 데이터는 노드에서 노드로 이동을 하게 되며, 각각의 노드는 고리 모양의 길을 통해 패킷을 처리한다. 노드 수가 증가되어도 네트워크상의 손실이 거의 없고 충돌이 발생되는 가능성이 적고 노드의 고장 발견을 쉽게 찾을 수 있다. 하지만 네트워크 구성 변경이 어렵고 회선에 장애가 발생하면 전체 네트워크에 영향을 크게 끼친다.&lt;/p&gt;
+&lt;h4&gt;메시 토폴로지&lt;/h4&gt;
+&lt;p&gt;메시(mesh) 토폴로지는 망형 토폴로지라고도 하며 그물망처럼 연결되어 있는 구조이다. 한 단말 장치에 장애가 발생해도 여러 개 경로가 있어서 네트워크를 계속 사용할 수 있고 트래픽도 분산 처리가 가능하다. 하지만 노드의 추가가 어렵고 구축 비용과 운용 비용이 고가이다.&lt;/p&gt;
+&lt;h3&gt;병목 현상&lt;/h3&gt;
+&lt;p&gt;토폴로지가 중요한 이유는 병목 현상을 찾을 때 중요한 기준이기 때문이다.&lt;/p&gt;
+&lt;p&gt;병목(bottleneck) 현상이란 전체 시스템의 성능이나 용량이 하나의 구성 요소로 인해 제한을 받는 현상을 말한다. 서비스에서 이벤트를 열었을 때 트래픽이 많이 생기고 그 트래픽을 잘 관리하지 못하면 병목 현상이 생겨 사용자는 웹 사이트로 들어가지 못한다.&lt;/p&gt;
+&lt;h2&gt;3. 네트워크 분류&lt;/h2&gt;
+&lt;p&gt;네트워크는 규모를 기반으로 분류할 수 있다.&lt;/p&gt;
+&lt;h3&gt;LAN&lt;/h3&gt;
+&lt;p&gt;LAN(Local Area Network)은 근거리 통신망을 의미하며 같은 건물이나 캠퍼스 같은 좁은 공간에서 운영된다. 전송 속도가 빠르고 혼잡하지 않다.&lt;/p&gt;
+&lt;h3&gt;MAN&lt;/h3&gt;
+&lt;p&gt;MAN(Metropolitan Area Network)은 대도시 지역 네트워크를 나타내며 도시 같은 넓은 지역에서 운영된다. 전송 속도는 평균이며 LAN보다는 더 많이 혼잡하다.&lt;/p&gt;
+&lt;h3&gt;WAN&lt;/h3&gt;
+&lt;p&gt;WAN(Wide Area Network)은 광역 네트워크를 의미하며 국가 또는 대륙 같은 더 넓은 지역에서 운영된다. 전송 속도는 낮으며 MAN보다 더 혼잡하다.&lt;/p&gt;
+&lt;h2&gt;4. 네트워크 성능 분석 명령어&lt;/h2&gt;
+&lt;p&gt;네트워크 병목 현상의 주된 원인은 네트워크 대역폭, 네트워크 토폴로지, 서버 CPU, 메모리 사용량, 비효율적인 네트워크 구성 등이 있다. 이때는 네트워크 관련 테스트와 네트워크와 무관한 테스트를 통해 &apos;네트워크로부터 발생한 문제점&apos;인 것을 확인한 후 네트워크 성능 분석을 해봐야 한다.&lt;/p&gt;
+&lt;h3&gt;ping&lt;/h3&gt;
+&lt;p&gt;ping(Packet INternet Groper)은 네트워크 상태를 확인하려는 대상 노드를 향해 일정 크기의 패킷을 전송하는 명령어이다. 이를 통해 해당 노드의 패킷 수신 상태와 도달하기까지 시간 등을 알 수 있으며 해당 노드까지 네트워크가 잘 연결되어 있는지 확인할 수 있다. ping은 TCP/IP 프로토콜 중에 ICMP 프로토콜을 통해 동작한다.&lt;/p&gt;
+&lt;p&gt;&lt;code class=&quot;language-text&quot;&gt;ping [IP 주소 또는 도메인 주소]&lt;/code&gt;로 실행한다.&lt;/p&gt;
+&lt;h3&gt;netstat&lt;/h3&gt;
+&lt;p&gt;netstat 명령어는 접속되어 있는 서비스들의 네트워크 상태를 표시하는 데 사용되며 네트워크 접속, 라우팅 테이블, 네트워크 프로토콜 등 리스트를 보여준다. 주로 서비스의 포트가 열려 있는지 확인할 때 쓴다.&lt;/p&gt;
+&lt;h3&gt;nslookup&lt;/h3&gt;
+&lt;p&gt;nslookup은 DNS에 관련된 내용을 확인하기 위해 쓰는 명령어이다. 특정 도메인에 매핑된 IP를 확인하기 위해 사용한다.&lt;/p&gt;
+&lt;h3&gt;tracert&lt;/h3&gt;
+&lt;p&gt;윈도우에서는 tracert이고 리눅스에서는 traceroute라는 명령어로 구동된다. 목적지 노드까지 네트워크 경로를 확인할 때 사용하는 명령어이다. 목적지 노드까지 구간들 중 어느 구간에서 응답 시간이 느려지는지 등을 확인할 수 있다.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;이외에도 ftp를 통해 대형 파일을 전송하거나 테스팅하거나 tcpdump를 통해 노드로 오고 가는 패킷을 캡처하는 등의 명령어가 있으며 네트워크 분석 프로그램으로는 wireshark, netmon이 있다.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;출처 : 면접을 위한 CS 전공지식노트&lt;/p&gt;
+&lt;/blockquote&gt;</content:encoded></item><item><title><![CDATA[[CS] 프로그래밍 패러다임]]></title><description><![CDATA[🍀 프로그래밍 패러다임 프로그래밍 패러다임(programming paradigm…]]></description><link>https://wlsdk7245.github.io/CS/2/</link><guid isPermaLink="false">https://wlsdk7245.github.io/CS/2/</guid><pubDate>Tue, 18 Apr 2023 22:41:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 768px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/71781bd59061f11510685a9551f4c6d8/21b4d/1.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 56.25%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAAAsTAAALEwEAmpwYAAACK0lEQVR42nXM3UtTcRzH8fNPFHTRn2BEN151FXRRV3VRQRCRET0okkFOJEssLYPyOROVaaUbOvBhm6apO7ZyOs982Hza5tnCTZ1n+LA5TQje4dnEzezixe8L5/M+QmtsEN1RO0O0RAf44GlTVbi+UDb1iarZVmoX22mJDKCLDanb5H7/FnSxH+iT6LattO/ZeGtvJqvxGdlNL8goyyHncxHPe6u4X6uhdFSL4c8YuqgVXcwa7xIE08YEKdYd9ESmaJC6yK17Rfb7fB5XFpDfXEpJdy2ZpRrqxzvp3XZiXJcwbjgSrUO9BXFtgaMsoXlGIn6KtOVoKorJLMzlUUEuee/e8LKpUv1mWZ3juFaQAgFSBA/uJSaCQSYDq9RIxWjEq7TN6fnp8TIie3Esxzeq4CFhwafgPmLeF8Ln30bvaCRv8AoPv6ZzzXiCIstt/L922W/+R/DIYTy+JLKC1xfGvbjGk/6L3DCdIsN0hgxTGll959FL9ci+Tdyyktgnt2EE19IKx5kJhPg4XsKDvnTumNK4az7LdeNJCodvsRDcwLm0nNiuphDsIRn7moz6JkhhP+Kii+4xK0/Fy9w0nuZezzmyv13A4GlnUllhLORNaQ4IQ5FpLMm2phGjTvqUcfoViTp3OTniJapnX9Pm72Bg3cFwdEbdWbac/xDMuzbMu6PEXxvmHRs9v0fp3PxOg8uA1tVFo7MD7UwXNVITJWIxBqWf3j27uj3s4//4C8gp0mOd6h4eAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Thumbnail&quot;
+        title=&quot;&quot;
+        src=&quot;/static/71781bd59061f11510685a9551f4c6d8/e5715/1.png&quot;
+        srcset=&quot;/static/71781bd59061f11510685a9551f4c6d8/8514f/1.png 192w,
+/static/71781bd59061f11510685a9551f4c6d8/804b2/1.png 384w,
+/static/71781bd59061f11510685a9551f4c6d8/e5715/1.png 768w,
+/static/71781bd59061f11510685a9551f4c6d8/4ad3a/1.png 1152w,
+/static/71781bd59061f11510685a9551f4c6d8/21b4d/1.png 1280w&quot;
+        sizes=&quot;(max-width: 768px) 100vw, 768px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h1&gt;🍀 프로그래밍 패러다임&lt;/h1&gt;
+&lt;p&gt;프로그래밍 패러다임(programming paradigm)은 프로그래머에게 프로그래밍의 관점을 갖게 해주는 역할을 하는 개발 방법론이다.&lt;/p&gt;
+&lt;p&gt;프로그래밍 패러다임은 크게 선언형, 명령형으로 나누며, 선언형은 함수형이라는 하위 집합을 갖는다. 또한, 명령형은 다시 객체지향, 절차지향으로 나뉜다.&lt;/p&gt;
+&lt;h2&gt;1. 선언형과 함수형 프로그래밍&lt;/h2&gt;
+&lt;p&gt;선언형 프로그래밍(declarative programming)이란 &apos;무엇을&apos; 풀어내는가에 집중하는 패러다임이다. 함수형 프로그래밍(functional programming)은 선언형 패러다임의 일종이다.&lt;/p&gt;
+&lt;p&gt;함수형 프로그래밍은 작은 순수 함수들을 블록처럼 쌓아 로직을 구현하고 고차함수를 통해 재사용성을 높인 프로그래밍 패러다임이다. 자바스크립트는 단순하고 유연한 언어이며, 함수가 일급 객체이기 때문에 객체지향 프로그래밍보다는 함수형 프로그래밍 방식이 선호된다.&lt;/p&gt;
+&lt;h3&gt;순수 함수&lt;/h3&gt;
+&lt;p&gt;출력이 입력에만 의존하는 것을 의미한다.&lt;/p&gt;
+&lt;h3&gt;고차 함수&lt;/h3&gt;
+&lt;p&gt;고차 함수란 함수가 함수를 값처럼 매개변수로 받아 로직을 생성할 수 있는 것을 말한다.&lt;/p&gt;
+&lt;h4&gt;일급 객체&lt;/h4&gt;
+&lt;p&gt;이때 고차 함수를 쓰기 위해서 해당 언어가 일급 객체라는 특징을 가져야 한다.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;변수나 메서드에 함수를 할당할 수 있다.&lt;/li&gt;
+&lt;li&gt;함수 안에 함수를 매개변수로 담을 수 있다.&lt;/li&gt;
+&lt;li&gt;함수가 함수를 반환할 수 있다.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;2. 객체지향 프로그래밍&lt;/h2&gt;
+&lt;p&gt;객체지향 프로그래밍(OOP, Object-Oriented Programming)은 객체들의 집합으로 프로그램의 상호 작용을 표현하며 데이터를 객체로 취급하여 객체 내부에 선언된 메서드를 활용하는 방식을 말한다. 설계에 많은 시간이 소요되며 처리 속도가 상대적으로 느리다.&lt;/p&gt;
+&lt;h3&gt;객체지향 프로그래밍의 특징&lt;/h3&gt;
+&lt;h4&gt;1. 추상화&lt;/h4&gt;
+&lt;p&gt;추상화(abstraction)란 복잡한 시스템으로부터 핵심적인 개념 또는 기능을 간추려내는 것을 의미한다. 사용하는 사람이 필요하지 않은 메서드 등을 노출시키지 않고, 단순한 이름으로 정의하고 코드가 복잡하지 않게 만들고 단순화된 사용으로 변화에 대한 영향을 최소화한다.&lt;/p&gt;
+&lt;h4&gt;2. 캡슐화&lt;/h4&gt;
+&lt;p&gt;캡슐화(encapsulation)는 객체의 속성과 메서드를 하나로 묶고 일부를 외부에 감추어 은닉하는 것을 말한다. 데이터와 기능을 따로 정의하지 않고, 하나의 객체 안에 넣어서 묶는 것이다. 코드가 복잡하지 않게 만들고, 재사용성을 높인다.&lt;/p&gt;
+&lt;h4&gt;3. 상속성&lt;/h4&gt;
+&lt;p&gt;상속성(inheritance)은 상위 클래스의 특성을 하위 클래스가 이어받아 재사용하거나 추가, 확장하는 것을 말한다. 코드의 재사용 측면, 계층적인 관계 생성, 유지 보수성 측면에서 중요하다.&lt;/p&gt;
+&lt;h4&gt;4. 다형성&lt;/h4&gt;
+&lt;p&gt;다형성(polymorphism)은 하나의 메서드나 클래스가 다양한 방법으로 동작하는 것을 말한다. 대표적으로 오버로딩과 오버라이딩이 있다.&lt;/p&gt;
+&lt;h5&gt;오버로딩&lt;/h5&gt;
+&lt;p&gt;오버로딩(overloading)은 같은 이름을 가진 메서드를 여러 개 두는 것을 말한다. 메서드의 타입, 매개변수의 유형, 개수 등으로 여러 개를 둘 수 있으며 컴파일 중에 발생하는 &apos;정적&apos; 다형성이다.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;java&quot;&gt;&lt;pre class=&quot;language-java&quot;&gt;&lt;code class=&quot;language-java&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;class&lt;/span&gt; &lt;span class=&quot;token class-name&quot;&gt;Person&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;token keyword&quot;&gt;public&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;void&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;eat&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token class-name&quot;&gt;String&lt;/span&gt; a&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+        &lt;span class=&quot;token class-name&quot;&gt;System&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;out&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;println&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;I eat &quot;&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;+&lt;/span&gt; a&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+    &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
+
+    &lt;span class=&quot;token keyword&quot;&gt;public&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;void&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;eat&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token class-name&quot;&gt;String&lt;/span&gt; a&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token class-name&quot;&gt;String&lt;/span&gt;  b&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+        &lt;span class=&quot;token class-name&quot;&gt;System&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;out&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;println&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;I eat &quot;&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;+&lt;/span&gt; a &lt;span class=&quot;token operator&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot; and &quot;&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;+&lt;/span&gt; b&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+    &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
+
+&lt;span class=&quot;token keyword&quot;&gt;public&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;class&lt;/span&gt; &lt;span class=&quot;token class-name&quot;&gt;CalculateArea&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;token keyword&quot;&gt;public&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;static&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;void&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;main&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token class-name&quot;&gt;String&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;]&lt;/span&gt; args&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+        &lt;span class=&quot;token class-name&quot;&gt;Person&lt;/span&gt; a &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;token class-name&quot;&gt;Person&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+        a&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;eat&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;apple&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+        a&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;eat&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;tomato&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;photo&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+    &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
+
+&lt;span class=&quot;token comment&quot;&gt;/*
+I eat apple
+I eat tomato and photo
+*/&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h6&gt;오버라이딩&lt;/h6&gt;
+&lt;p&gt;오버라이딩(overriding)은 주로 메서드 오버라이딩(method overriding)을 말하며 상위 클래스로부터 상속받은 메서드를 하위 클래스가 재정의하는 것을 의미한다. 이는 런타임 중에 발생하는 &apos;동적&apos; 다형성이다.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;java&quot;&gt;&lt;pre class=&quot;language-java&quot;&gt;&lt;code class=&quot;language-java&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;class&lt;/span&gt; &lt;span class=&quot;token class-name&quot;&gt;Animal&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;token keyword&quot;&gt;public&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;void&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;bark&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+        &lt;span class=&quot;token class-name&quot;&gt;System&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;out&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;println&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;mumu! mumu!&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+    &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
+
+&lt;span class=&quot;token keyword&quot;&gt;class&lt;/span&gt; &lt;span class=&quot;token class-name&quot;&gt;Dog&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;extends&lt;/span&gt; &lt;span class=&quot;token class-name&quot;&gt;Animal&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;token annotation punctuation&quot;&gt;@Override&lt;/span&gt;
+    &lt;span class=&quot;token keyword&quot;&gt;public&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;void&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;bark&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+        &lt;span class=&quot;token class-name&quot;&gt;System&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;out&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;println&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;wal!!! wal!!!&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+    &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
+
+&lt;span class=&quot;token keyword&quot;&gt;public&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;class&lt;/span&gt; &lt;span class=&quot;token class-name&quot;&gt;Main&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;token keyword&quot;&gt;public&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;static&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;void&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;main&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token class-name&quot;&gt;String&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;]&lt;/span&gt; args&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+        &lt;span class=&quot;token class-name&quot;&gt;Dog&lt;/span&gt; d &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;token class-name&quot;&gt;Dog&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+        d&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;bark&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+    &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
+
+&lt;span class=&quot;token comment&quot;&gt;/*
+wal!!! wal!!!
+*/&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h3&gt;설계 원칙&lt;/h3&gt;
+&lt;p&gt;객체지향 프로그래밍을 설계할 때는 SOLID 원칙을 지켜줘야 한다.&lt;/p&gt;
+&lt;h4&gt;1. 단일 책임 원칙&lt;/h4&gt;
+&lt;p&gt;단일 책임 원칙(SRP, Single Responsibility Principle)은 모든 클래스는 각각 하나의 책임만 가져가야하는 원칙이다.&lt;/p&gt;
+&lt;h4&gt;2. 개방-폐쇄 원칙&lt;/h4&gt;
+&lt;p&gt;개방-폐쇄 원칙(OCP, Open Closed Principle)은 유지 보수 사항이 생긴다면 코드를 쉽게 확장할 수 있도록 하고 수정할 때는 닫혀 있어야 한다. 즉, 기존의 코드는 잘 변경하지 않으면서도 확장은 쉽게 할 수 있어야 한다.&lt;/p&gt;
+&lt;h4&gt;3. 리스코프 치환 원칙&lt;/h4&gt;
+&lt;p&gt;리스코프 치환 원칙(LSP, Liskov Substitution Principle)은 프로그램의 객체는 프로그램의 정확성을 깨뜨리지 않으면서 하위 타입의 인스턴스로 바꿀 수 있어야 하는 것을 의미한다. 부모 객체에 자식 객체를 넣어도 시스템이 문제없이 돌아가게 만드는 것을 말한다.&lt;/p&gt;
+&lt;h4&gt;4. 인터페이스 분리 원칙&lt;/h4&gt;
+&lt;p&gt;인터페이스 분리 원칙(ISP, Interface Segregation Principle)은 하나의 일반적인 인터페이스보다 구체적인 여러 개의 인터페이스를 만들어야 하는 원칙을 말한다.&lt;/p&gt;
+&lt;h4&gt;5. 의존 역전 원칙&lt;/h4&gt;
+&lt;p&gt;의존 역전 원칙(DIP, Dependency Inversion Principle)은 자신보다 변하기 쉬운 것에 의존하던 것을 추상화된 인터페이스나 상위 클래스를 두어 변하기 쉬운 것의 변화에 영향받지 않게 하는 원칙을 말한다. 즉, 상위 계층은 하위 계층의 변화에 대한 구현으로부터 독립해야 한다.&lt;/p&gt;
+&lt;h2&gt;3. 절차형 프로그래밍&lt;/h2&gt;
+&lt;p&gt;절차형 프로그래밍은 로직이 수행되어야 할 연속적인 계산 과정으로 이루어져 있다.일이 진행되는 방식으로 그저 구현하기만 하면 되기에 코드의 가독성이 좋고 실행 속도가 빠르다. 모듈화하기가 어렵고 유지 보수성이 떨어진다는 단점이 있다.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;출처 : 면접을 위한 CS 전공지식노트&lt;/p&gt;
+&lt;/blockquote&gt;</content:encoded></item><item><title><![CDATA[[CS] 디자인 패턴]]></title><description><![CDATA[🍀 디자인 패턴 디자인 패턴이란 프로그램을 설계할 때 발생했던 문제점들을 객체 간의 상호 관계 등을 이용하여 해결할 수 있도록 하나의 '규약' 형태로 만들어 놓은 것을 의미한다. 1. 싱글톤 패턴 싱글톤 패턴(singleton pattern…]]></description><link>https://wlsdk7245.github.io/CS/1/</link><guid isPermaLink="false">https://wlsdk7245.github.io/CS/1/</guid><pubDate>Tue, 18 Apr 2023 21:41:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 768px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/71781bd59061f11510685a9551f4c6d8/21b4d/1.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 56.25%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAAAsTAAALEwEAmpwYAAACK0lEQVR42nXM3UtTcRzH8fNPFHTRn2BEN151FXRRV3VRQRCRET0okkFOJEssLYPyOROVaaUbOvBhm6apO7ZyOs982Hza5tnCTZ1n+LA5TQje4dnEzezixe8L5/M+QmtsEN1RO0O0RAf44GlTVbi+UDb1iarZVmoX22mJDKCLDanb5H7/FnSxH+iT6LattO/ZeGtvJqvxGdlNL8goyyHncxHPe6u4X6uhdFSL4c8YuqgVXcwa7xIE08YEKdYd9ESmaJC6yK17Rfb7fB5XFpDfXEpJdy2ZpRrqxzvp3XZiXJcwbjgSrUO9BXFtgaMsoXlGIn6KtOVoKorJLMzlUUEuee/e8LKpUv1mWZ3juFaQAgFSBA/uJSaCQSYDq9RIxWjEq7TN6fnp8TIie3Esxzeq4CFhwafgPmLeF8Ln30bvaCRv8AoPv6ZzzXiCIstt/L922W/+R/DIYTy+JLKC1xfGvbjGk/6L3DCdIsN0hgxTGll959FL9ci+Tdyyktgnt2EE19IKx5kJhPg4XsKDvnTumNK4az7LdeNJCodvsRDcwLm0nNiuphDsIRn7moz6JkhhP+Kii+4xK0/Fy9w0nuZezzmyv13A4GlnUllhLORNaQ4IQ5FpLMm2phGjTvqUcfoViTp3OTniJapnX9Pm72Bg3cFwdEbdWbac/xDMuzbMu6PEXxvmHRs9v0fp3PxOg8uA1tVFo7MD7UwXNVITJWIxBqWf3j27uj3s4//4C8gp0mOd6h4eAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Thumbnail&quot;
+        title=&quot;&quot;
+        src=&quot;/static/71781bd59061f11510685a9551f4c6d8/e5715/1.png&quot;
+        srcset=&quot;/static/71781bd59061f11510685a9551f4c6d8/8514f/1.png 192w,
+/static/71781bd59061f11510685a9551f4c6d8/804b2/1.png 384w,
+/static/71781bd59061f11510685a9551f4c6d8/e5715/1.png 768w,
+/static/71781bd59061f11510685a9551f4c6d8/4ad3a/1.png 1152w,
+/static/71781bd59061f11510685a9551f4c6d8/21b4d/1.png 1280w&quot;
+        sizes=&quot;(max-width: 768px) 100vw, 768px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h1&gt;🍀 디자인 패턴&lt;/h1&gt;
+&lt;p&gt;디자인 패턴이란 프로그램을 설계할 때 발생했던 문제점들을 객체 간의 상호 관계 등을 이용하여 해결할 수 있도록 하나의 &apos;규약&apos; 형태로 만들어 놓은 것을 의미한다.&lt;/p&gt;
+&lt;h2&gt;1. 싱글톤 패턴&lt;/h2&gt;
+&lt;p&gt;싱글톤 패턴(singleton pattern)은 하나의 클래스에 오직 하나의 인스턴스만 가지는 패턴이다. 보통 데이터베이스 연결 모듈에 많이 사용한다.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;장점 : 인스턴스를 생성할 때 드는 비용이 줄어든다.&lt;/li&gt;
+&lt;li&gt;단점 : 의존성이 높아진다.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;h3&gt;자바스크립트의 싱글톤 패턴&lt;/h3&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;js&quot;&gt;&lt;pre class=&quot;language-js&quot;&gt;&lt;code class=&quot;language-js&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;class&lt;/span&gt; &lt;span class=&quot;token class-name&quot;&gt;Singleton&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+  &lt;span class=&quot;token function&quot;&gt;constructor&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;token keyword&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;!&lt;/span&gt;Singleton&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;instance&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+      Singleton&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;instance &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;this&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+    &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
+    &lt;span class=&quot;token keyword&quot;&gt;return&lt;/span&gt; Singleton&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;instance&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+  &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
+  &lt;span class=&quot;token function&quot;&gt;getInstance&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;token keyword&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;this&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;instance&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+  &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
+
+&lt;span class=&quot;token keyword&quot;&gt;const&lt;/span&gt; a &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;token class-name&quot;&gt;Singleton&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;token keyword&quot;&gt;const&lt;/span&gt; b &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;token class-name&quot;&gt;Singleton&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+console&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;log&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;a &lt;span class=&quot;token operator&quot;&gt;===&lt;/span&gt; b&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;token comment&quot;&gt;// true&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h3&gt;싱글톤 패턴의 단점&lt;/h3&gt;
+&lt;p&gt;싱글톤 패턴은 TDD(Test Driven Development)를 할 때 걸림돌이 된다. TDD를 할 때 단위 테스트를 주로 하는데, 단위 테스트는 테스트가 서로 독립적이어야 하며 테스트를 어떤 순서로든 실행가능해야 한다. 하지만 싱글톤 패턴은 미리 생성된 하나의 인스턴스를 기반으로 구현하는 패턴이기 때문에, 테스트마다 독립적인 인스턴스를 만드는 것은 어렵다.&lt;/p&gt;
+&lt;h3&gt;의존성 주입&lt;/h3&gt;
+&lt;p&gt;싱글톤 패턴은 사용하기 쉽고 굉장히 실용적이지만, 모듈 간의 결합을 강하게 만든다는 단점이 있다. 이때 의존성 주입(DI, Dependency Injection)을 통해 결합을 조금 더 느슨하게 만들 수 있다.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;의존성이란 종속성이라고도 하며 A가 B에 의존성이 있다는 것은 B의 변경 사항에 대해 A 또한 변해야 한다는 것을 의미한다.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;메인 모듈이 직접 다른 하위 모듈에 대한 의존성을 주기보다, 중간에 의존성 주입자가 이 부분을 가로채 메인 모듈이 간접적으로 의존성을 주입하는 방식을 말한다. 이를 통해 메인 모듈은 하위 모듈에 대한 의존성이 떨어진다. 이를 &apos;디커플링 된다&apos;고도 한다.&lt;/p&gt;
+&lt;h4&gt;의존성 주입의 장점&lt;/h4&gt;
+&lt;p&gt;모듈들을 쉽게 교체할 수 있는 구조가 되어 테스팅과 마이그레이션이 쉽다. 구현할 때 추상화 레이어를 넣고 이를 기반으로 구현체를 넣기 때문에 애플리케이션 의존성 방향이 일관되고 애플리케이션을 쉽게 추론할 수 있으며 모듈 간의 관계들이 명확해진다.&lt;/p&gt;
+&lt;h4&gt;의존성 주입의 단점&lt;/h4&gt;
+&lt;p&gt;모듈들이 더욱더 분리되므로 클래스 수가 늘어나 복잡성이 증가될 수 있고 약간의 런타임 페널티가 생기기도 한다.&lt;/p&gt;
+&lt;h4&gt;의존성 주입 원칙&lt;/h4&gt;
+&lt;p&gt;상위 모듈은 하위 모듈에서 어떠한 것도 가져오지 않아야 한다. 또한, 둘 다 추상화에 의존해야 하며, 이때 추상화는 세부 사항에 의존하지 않아야 한다.&lt;/p&gt;
+&lt;h2&gt;2. 팩토리 패턴&lt;/h2&gt;
+&lt;p&gt;팩토리 패턴은 객체를 사용하는 코드에서 객체 생성 부분을 떼어내 추상화한 패턴이자 상속 관계에 있는 두 클래스에서 상위 클래스가 중요한 뼈대를 결정하고, 하위 클래스에서 객체 생성에 관한 구체적인 내용을 결정하는 패턴이다.&lt;/p&gt;
+&lt;p&gt;상위 클래스와 하위 클래스가 분리되기 때문에 느슨한 결합을 가지며 상위 클래스에서는 인스턴스 생성 방식에 대해 전혀 알 필요가 없기 때문에 더 많은 유연성을 갖게 된다. 그리고 객체 생성 로직이 따로 떼어져 있어서 유지 보수성이 증가된다.&lt;/p&gt;
+&lt;h2&gt;3. 전략 패턴&lt;/h2&gt;
+&lt;p&gt;전략 패턴은 정책 패턴이라고도 하며, 객체의 행위를 바꾸고 싶은 경우 직접 수정하지 않고 전략이라고 부르는 캡슐화한 알고리즘을 컨텍스트안에서 바꿔주면서 상호 교체가 가능하게 만드는 패턴이다.&lt;/p&gt;
+&lt;h3&gt;passport의 전략 패턴&lt;/h3&gt;
+&lt;p&gt;passport는 Node.js에서 인증 모듈을 구현할 때 쓰는 미들웨어 라이브러리로, 여러 가지 &apos;전략&apos;을 기반으로 인증할 수 있게 한다. 서비스 내의 회원가입된 아이디와 비밀번호를 기반으로 인증하는 LocalStrategy 전략과 페이스북, 네이버 등 다른 서비스를 기반으로 인증하는 OAuth 전략 등을 지원한다.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;js&quot;&gt;&lt;pre class=&quot;language-js&quot;&gt;&lt;code class=&quot;language-js&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;var&lt;/span&gt; passport &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;requre&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;passport&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+  LocalStrategy &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;require&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;passport-local&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;Strategy&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+
+passport&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;use&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;
+  &lt;span class=&quot;token keyword&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;token class-name&quot;&gt;LocalStrategy&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token keyword&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token parameter&quot;&gt;username&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; password&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; done&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+    User&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;findOne&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt; &lt;span class=&quot;token literal-property property&quot;&gt;username&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; username &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token parameter&quot;&gt;err&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; user&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+      &lt;span class=&quot;token keyword&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;err&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+        &lt;span class=&quot;token keyword&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;done&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;err&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+      &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
+      &lt;span class=&quot;token keyword&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;!&lt;/span&gt;user&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+        &lt;span class=&quot;token keyword&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;done&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token keyword&quot;&gt;null&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token boolean&quot;&gt;false&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt; &lt;span class=&quot;token literal-property property&quot;&gt;message&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;Incorrect username.&quot;&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+      &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
+      &lt;span class=&quot;token keyword&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;!&lt;/span&gt;user&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;validPassword&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;password&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+        &lt;span class=&quot;token keyword&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;done&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token keyword&quot;&gt;null&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token boolean&quot;&gt;false&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt; &lt;span class=&quot;token literal-property property&quot;&gt;message&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;Incorrect password.&quot;&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+      &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
+      &lt;span class=&quot;token keyword&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;done&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token keyword&quot;&gt;null&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; user&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+    &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+  &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h2&gt;4. 옵저버 패턴&lt;/h2&gt;
+&lt;p&gt;옵저버 패턴은 주체가 어떤 객체의 상태 변화를 관찰하다가 상태 변화가 있을 때마다 메서드 등을 통해 옵저버 목록에 있는 옵저버들에게 변화를 알려주는 디자인 패턴이다.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;주체 : 객체의 상태 변화를 보고 있는 관찰자&lt;/li&gt;
+&lt;li&gt;옵저버 : 이 객체의 상태 변화에 따라 전달되는 메서드 등을 기반으로 &apos;추가 변화 사항&apos;이 생기는 객체들&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;주체와 객체를 따로 두지 않고 상태가 변경되는 객체를 기반으로 구축하기도 한다. 또한 옵저버 패턴은 주로 이벤트 기반 시스템에 사용하며 MVC(Model-View-Controller) 패턴에도 사용된다.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;상속 (extends) : 자식 클래스가 부모 클래스의 메서드 등을 상속받아 사용하며 자식 클래스에서 추가 및 확장을 할 수 있는 것으로, 재사용성과 중복성의 최소화가 이루어진다.&lt;/li&gt;
+&lt;li&gt;구현 (implements) : 부모 인터페이스를 자식 클래스에서 재정의하여 구현하는 것을 말하며, 상속과는 달리 반드시 부모 클래스의 메서드를 재정의하여 구현해야 한다.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;h2&gt;5. 프록시 패턴과 프록시 서버&lt;/h2&gt;
+&lt;p&gt;프록시 패턴은 대상 객체에 접근하기 전 그 접근에 대한 흐름을 가로채 대상 객체 앞단의 인터페이스 역할을 하는 디자인 패턴이다.&lt;/p&gt;
+&lt;p&gt;이를 통해 객체의 속성, 변환 등을 보완하고 보안, 데이터 검증, 캐싱 로깅에 사용한다.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;프록시 서버에서의 캐싱
+&lt;ul&gt;
+&lt;li&gt;캐시 안에 정보를 담아두고, 캐시 안에 있는 정보를 요구하는 요청에 대해 다시 저 멀리 있는 원격 서버에 요청하지 않고 캐시 안에 있는 데이터를 활용하는 것을 말한다. 이를 통해 불필요하게 외부와 연결하지 않기 때문에 트래픽을 줄일 수 있다는 장점이 있다.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;h3&gt;프록시 서버&lt;/h3&gt;
+&lt;p&gt;프록시 서버는 서버와 클라이언트 사이에서 클라이언트가 자신을 통해 다른 네트워크 서비스에 간접적으로 접속할 수 있게 해주는 컴퓨터 시스템이나 응용 프로그램을 가리킨다.&lt;/p&gt;
+&lt;h4&gt;CORS와 프론트엔드 프록시 서버&lt;/h4&gt;
+&lt;p&gt;CORS(Cross-Origin Resource Sharing)는 서버가 웹 브라우저에서 리소스를 로드할 때 다른 오리진을 통해 로드하지 못하게하는 HTTP 헤더 기반 메커니즘이다. 프론트엔드 개발 시 서버를 만들어서 백엔드 서버와 통신할 때 주로 CORS 에러를 마주치는데, 이를 해결하기 위해 프론트엔드에서 프록시 서버를 만든다.&lt;/p&gt;
+&lt;h2&gt;6. 이터레이터 패턴&lt;/h2&gt;
+&lt;p&gt;이터레이터 패턴은 이터레이터를 사용하여 컬렉션의 요소들에 접근하는 디자인 패턴이다. 자료형의 구조와 상관 없이 하나의 인터페이스로 순회가 가능하다.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;js&quot;&gt;&lt;pre class=&quot;language-js&quot;&gt;&lt;code class=&quot;language-js&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;const&lt;/span&gt; mp &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;token class-name&quot;&gt;Map&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+mp&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;set&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;a&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+mp&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;set&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;b&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+mp&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;set&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;c&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;token keyword&quot;&gt;const&lt;/span&gt; st &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;token class-name&quot;&gt;Set&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+st&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;add&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token number&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+st&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;add&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token number&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+st&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;add&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token number&quot;&gt;3&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;token keyword&quot;&gt;for&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token keyword&quot;&gt;let&lt;/span&gt; a &lt;span class=&quot;token keyword&quot;&gt;of&lt;/span&gt; mp&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; console&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;log&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;a&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;token keyword&quot;&gt;for&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token keyword&quot;&gt;let&lt;/span&gt; a &lt;span class=&quot;token keyword&quot;&gt;of&lt;/span&gt; st&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; console&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;log&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;a&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h2&gt;7. 노출모듈 패턴&lt;/h2&gt;
+&lt;p&gt;노출모듈 패턴은 즉시 실행 함수를 통해 private, public 같은 접근 제어자를 만드는 패턴을 말한다.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;ol&gt;
+&lt;li&gt;public : 클래스에 정의된 함수에서 접근 가능하며 자식 클래스와 외부 클래스에서 접근 가능한 범위&lt;/li&gt;
+&lt;li&gt;protected : 클래스에 정의된 함수에서 접근 가능, 자식 클래스에서 접근 가능하지만 외부 클래스에서 접근 불가능한 범위&lt;/li&gt;
+&lt;li&gt;private : 클래스에 정의된 함수에서 접근 가능하지만 자식 클래스와 외부 클래스에서 접근 불가능한 범위&lt;/li&gt;
+&lt;li&gt;즉시 실행 함수 : 함수를 정의하자마자 바로 호출하는 함수. 초기화 코드, 라이브러리 내 전역 변수의 충돌 방지 등에 사용한다.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/blockquote&gt;
+&lt;h2&gt;8. MVC 패턴&lt;/h2&gt;
+&lt;p&gt;MVC 패턴은 모델(Model), 뷰(View), 컨트롤러(Controller)로 이루어진 디자인 패턴이다.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;장점 : 재사용성과 확장성이 용이하다.&lt;/li&gt;
+&lt;li&gt;단점 : 애플리케이션이 복잡해질수록 모델과 뷰의 관계가 복잡해진다.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;h3&gt;모델&lt;/h3&gt;
+&lt;p&gt;모델(model)은 애플리케이션의 데이터인 데이터베이스, 상수, 변수 등을 뜻한다.&lt;/p&gt;
+&lt;h3&gt;뷰&lt;/h3&gt;
+&lt;p&gt;뷰(view)는 inputbox, checkbox, textarea 등 사용자 인터페이스 요소를 나타낸다. 즉, 모델을 기반으로 사용자가 볼 수 있는 화면을 뜻한다. 모델의 정보는 가지고 있어서는 안되고, 화면에 표시하는 정보만 가지고 있어야 한다. 또, 변경이 있을 시 컨트롤러에게 알려줘야 한다.&lt;/p&gt;
+&lt;h3&gt;컨트롤러&lt;/h3&gt;
+&lt;p&gt;컨트롤러(controller)는 하나 이상의 모델과 하나 이상의 뷰를 잇는 다리 역할이다. 이벤트 등 메인 로직을 담당하고 모델과 뷰의 생명주기를 관리하고 모델이나 뷰의 변경 통지를 받으면 이를 해석하여 각각의 구성 요소에 해당 내용을 알려준다.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;MVC 패턴의 예
+&lt;ul&gt;
+&lt;li&gt;리액트는 유저 인터페이스를 구축하기 위한 라이브러리로 &apos;가상 DOM&apos;을 통해 실제 DOM을 조작하는 것을 추상화해서 성능을 높였다.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;h2&gt;9. MVP 패턴&lt;/h2&gt;
+&lt;p&gt;MVC 패턴으로부터 파생되었으며 MVC에서 C에 해당하는 컨트롤러가 프레젠터(presenter)로 교체된 패턴이다. 뷰와 프레젠터는 일대일 관계이므로 MVC 패턴보다 더 강한 결합을 지녔다.&lt;/p&gt;
+&lt;h2&gt;10. MVVM 패턴&lt;/h2&gt;
+&lt;p&gt;MVVM 패턴은 MVC의 해당하는 컨트롤러가 뷰모델(view model)로 바뀐 패턴이다. 여기서 뷰모델은 뷰를 더 추상화한 계층이며, MVVM 패턴은 MVC 패턴과는 다르게 커맨드와 데이터 바인딩을 가진다. 뷰와 뷰모델 사이의 양방향 데이터 바인딩을 지원하며 UI를 별도의 코드 수정 없이 재사용할 수 있고 단위 테스팅하기 쉽다.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;데이터 바인딩이란? 화면에 보이는 데이터와 웹 브라우저의 메모리 데이터를 일치시키는 기법으로, 뷰모델을 변경하면 뷰가 변경된다.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;MVVM 패턴의 예
+&lt;ul&gt;
+&lt;li&gt;뷰(Vue.js)는 함수를 사용하지 않고 값 대입만으로도 변수가 변경되고 양방향 바인딩, html을 토대로 컴포넌트를 구축할 수 있다.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;hr&gt;
+&lt;h1&gt;📍 예상질문&lt;/h1&gt;
+&lt;h3&gt;Q. 옵저버 패턴을 어떻게 구현하나요?&lt;/h3&gt;
+&lt;h4&gt;Answer&lt;/h4&gt;
+&lt;p&gt;여러 방법이 있지만 프록시 객체를 써서 하곤 한다. 프록시 객체를 통해 객체의 속성이나 메서드 변화 등을 감지하고 이를 미리 설정해 놓은 옵저버들에게 전달하는 방법으로 구현한다.&lt;/p&gt;
+&lt;h3&gt;Q. 프록시 서버를 설명하고 사용 사례에 대해 설명해보세요.&lt;/h3&gt;
+&lt;h4&gt;Answer&lt;/h4&gt;
+&lt;p&gt;프록시 서버란 서버 앞단에 둬서 캐싱, 로깅, 데이터 분석을 서버보다 먼저 하는 서버를 말한다. 이를 통해 포트 번호를 바꿔 사용자가 실제 서버의 포트에 접근하지 못하게 할 수 있고 공격자의 DDOS 공격을 차단하거나 CDN을 프록시 서버로 달아서 캐싱 처리를 용이하게 할 수 있다. nginx로 Node.js로 이루어진 서버의 앞단에 둬서 버퍼 오버플로우를 해결하거나 CloudFlare를 둬서 캐싱, 로그 분석 등을 하는 사용 사례가 있다.&lt;/p&gt;
+&lt;h3&gt;Q. MVC 패턴을 설명하고 MVVM 패턴과의 차이는 무엇인지 설명해보세요.&lt;/h3&gt;
+&lt;h4&gt;Answer&lt;/h4&gt;
+&lt;p&gt;MVC 패턴은 모델(Model), 뷰(View), 컨트롤러(Controller)로 이루어진 디자인 패턴이다. 앱의 구성 요소를 세 가지 역할로 구분해 개발 프로세스에서 각각의 구성 요소에만 집중해서 개발할 수 있고, 재사용성과 확장성이 용입니다. 그러나 애플리케이션이 복잡해질수록 모델과 뷰의 관계 또한 복잡해지는 단점이 있다.&lt;/p&gt;
+&lt;p&gt;MVVM 패턴은 MVC의 C에 해당하는 컨트롤러가 뷰모델로 바뀐 패턴이다. 여기서 뷰모델은 뷰를 더 추상화한 계층이며, MVVM 패턴은 MVC 패턴과는 다르게 커맨드와 데이터 바인딩을 가지는 것이 특징이다. 뷰와 뷰모델 사이의 양방향 데이터 바인딩을 지원하며 UI를 별도의 코드 수정 없이 재사용할 수 있고 단위 테스팅하기 쉽다는 장점이 있다.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;출처 : 면접을 위한 CS 전공지식노트&lt;/p&gt;
+&lt;/blockquote&gt;</content:encoded></item><item><title><![CDATA[[TIL] 네트워크]]></title><description><![CDATA[📚 웹 애플리케이션 아키텍처 🍭 클라이언트 - 서버 아키텍처 서버는 영어 단어 그대로 제공하는 주체를 의미한다. 클라이언트 - 서버 아키텍처 어떠한 리소스가 존재하는 곳과 리소스를 사용하는 앱을 분리시킨 것을…]]></description><link>https://wlsdk7245.github.io/TIL/4/</link><guid isPermaLink="false">https://wlsdk7245.github.io/TIL/4/</guid><pubDate>Fri, 07 Apr 2023 21:41:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 768px; &quot;
     &gt;
